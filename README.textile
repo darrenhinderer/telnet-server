@@ -1,0 +1,1 @@
+This is a telnet server I wrote a while back with the intention of hooking it up to a MUD style game.
